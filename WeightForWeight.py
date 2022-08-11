@@ -1,4 +1,4 @@
-'''Wieght fo weight - www.codewars.com
+'''Weight fof weight - www.codewars.com
 My friend John and I are members of the "Fat to Fit Club (FFC)". John is worried because each month a list with the
 weights of members is published and each month he is the last on the list which means he is the heaviest.
 I am the one who establishes the list so I told him: "Don't worry any more, I will modify the order of the list".
