@@ -6,4 +6,10 @@ def digital_root(n):
     return result
 
 if __name__ == "__main__":
-    print(digital_root(985))
+    n = 0
+    try:
+        n = input("Enter a number to sum:\n")
+        print(digital_root(n))
+    except Exception:
+        print("Not a number!")
+
